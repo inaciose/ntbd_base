@@ -19,7 +19,7 @@ It also expects some launch files to be present in the description package. See 
 
 The robot arm motors should be controlled by an Arduino or another compatible MCU running the apropriate ntbd firmware.
 
-Related repositories:
+# Related repositories:
 
 - https://github.com/inaciose/ntbd_firmware
 - https://github.com/inaciose/ntbd_web
